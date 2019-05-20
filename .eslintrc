@@ -1,0 +1,6 @@
+{
+  "extends": "equimper",
+  "globals": {
+    "__DEV__": false
+  }
+}
